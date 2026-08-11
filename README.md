@@ -8,5 +8,6 @@ El proyecto se encuentra incompleto. Se encuentra desarrollada la primera reacci
 - Un script que permita predecir la corriente de reactivos para una corriente de productos indicada por el usuario.
 - Ampliar el catalogo de posibles reacciones.
 - Diagrama de flujo: Elementos gráficos del balance del reactor con sus respectivos componentes y corrientes.
+- Incorporar la libreria Pandas para poder manipular los datos y sintetizar hojas de calculo.
 
 ---
